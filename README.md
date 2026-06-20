@@ -57,9 +57,3 @@ Provide real-time environmental monitoring
 Integrate hardware and mobile systems seamlessly
 Demonstrate full-stack IoT development skills
 
-📌 Future Improvements
-Add mobile notifications/alerts
-Integrate AI-based anomaly detection
-Add cloud dashboard (web version)
-Improve security with authentication
-Add historical data visualization
